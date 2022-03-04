@@ -1,0 +1,25 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.iconTheme": "vs-seti",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.tabSize": 2
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "vsicons.projectDetection.autoReload": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "jest.autoEnable": false,
+  "jest.runAllTestsFirst": false
+}
